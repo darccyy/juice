@@ -1,4 +1,4 @@
-# [View on GitHub Pages](https://darccyy.github.io/juice/)
+## [View on GitHub Pages](https://darccyy.github.io/juice/)
 
 | Language           | Pronounciation                                                              |
 | ----------------- | --------------------------------------------------------------------------- |
