@@ -2,16 +2,11 @@
 
 | Language           | Pronounciation                                                              |
 | ----------------- | --------------------------------------------------------------------------- |
-| English           | <video controls><source src="https://raw.githubusercontent.com/darccyy/juice/master/video/english.mov" /></video> d͡ʒuːs     |
-| Esperanto         | <video controls><source src="./video/esperanto.mov" /></video> juˈit͡se |
-| Spanish / Español | <video controls><source src="./video/spanish.mov" /></video> xwiθeɪ    |
-| French / Français | <video controls><source src="./video/french.mov" /></video> ʒøʁi       |
-| German / Deutsch  | <video controls><source src="./video/german.mov" /></video> ʝʊːs       |
-| Toki Pona         | <video controls><source src="./video/tokipona.mov" /></video> ju.iseɪ  |
-| Mandarin / 中文   | <video controls><source src="./video/mandarin.mov" /></video> ˈʐʊɪɕɛ   |
-| Japanese / 日本語 | <video controls><source src="./video/japanese.mov" /></video> d͡ʑɯˈisu  |
-
-
-<video controls><source src="https://raw.githubusercontent.com/darccyy/juice/master/video/english.mov" /></video>
-
-true
+| English           | <video controls width="50"><source src="audio/english.mp3" /></video> d͡ʒuːs     |
+| Esperanto         | <video controls width="50"><source src="audio/esperanto.mp3" /></video> juˈit͡se |
+| Spanish / Español | <video controls width="50"><source src="audio/spanish.mp3" /></video> xwiθeɪ    |
+| French / Français | <video controls width="50"><source src="audio/french.mp3" /></video> ʒøʁi       |
+| German / Deutsch  | <video controls width="50"><source src="audio/german.mp3" /></video> ʝʊːs       |
+| Toki Pona         | <video controls width="50"><source src="audio/tokipona.mp3" /></video> ju.iseɪ  |
+| Mandarin / 中文   | <video controls width="50"><source src="audio/mandarin.mp3" /></video> ˈʐʊɪɕɛ   |
+| Japanese / 日本語 | <video controls width="50"><source src="audio/japanese.mp3" /></video> d͡ʑɯˈisu  |
